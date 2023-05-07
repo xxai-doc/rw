@@ -7,3 +7,4 @@ Kode yimbere-yurubuga ni isoko ifunguye, ikaze kugirango ifashe guhindura neza i
 * [kode y'imbere](https://github.com/xxai-art/web)
 * [Ibipapuro byururimi kurubuga muri rusange](https://github.com/xxai-art/web/tree/main/i18n)
 * [Urupapuro rwindimi zo kwinjira](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Urubuga Indimi nyinshi](https://github.com/xxai-doc)
